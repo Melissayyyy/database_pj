@@ -1,0 +1,9 @@
+D:/Desktop/myjql_ori/build/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/myjql_ori/build/CMakeFiles/ZERO_CHECK.dir
+D:/Desktop/myjql_ori/build/src/CMakeFiles/myjql.dir
+D:/Desktop/myjql_ori/build/test/CMakeFiles/test_hash_map.dir
+D:/Desktop/myjql_ori/build/test/CMakeFiles/test_str.dir
+D:/Desktop/myjql_ori/build/test/CMakeFiles/test_b_tree.dir
+D:/Desktop/myjql_ori/build/driver/CMakeFiles/myjqlclient.dir
+D:/Desktop/myjql_ori/build/main/CMakeFiles/myjqlserver.dir
+D:/Desktop/myjql_ori/build/main/CMakeFiles/myjqlshell.dir

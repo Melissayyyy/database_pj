@@ -1,0 +1,62 @@
+bid,'title','author','category',status,borrowedcnt
+285999,'Steve Jobs','Walter Issacson','Biography',0,1
+346211,'Discovery of India','Jawaharlal Nehru','History',0,20
+731469,'My Experiments with Truth','Mahatma Gandhi','Autobiography',0,14
+371269,'Object Oriented Programming with C++','E Balagurusamy','Education',0,28
+815178,'Thinking with type','Ellen Lupton','Arts',0,9
+585955,'The Photographer's','Lindsay Adler','Photography',0,23
+860202,'Think and Grow','Napoleon Hill','Economics',0,13
+611337,'The Fifth Discipline : The Art','Peter M.Senge','Management',0,16
+847663,'A Theory of Justice','John Rawls','Law',0,29
+140433,'Eat to Live','Joel Fuhrman','Health',0,5
+806306,'City of Heavenly Fire','Cassandra Clare','Fiction',1,14
+538793,'Da Vinci Code','Dan Brown','Fiction',1,16
+829991,'War and Peace','Leo Tolstoy','Philosophical fiction',0,19
+403703,'Python For All','John Shovic','Education',1,23
+185109,'Automate The Boring Stuff With Python','Al Sweigart','Education',1,21
+348253,'Wings Of Fire','APJ Abdul Kalam','Autobiography',1,13
+456701,'Ikigai','Hector Garcia','Personal Development',1,11
+707275,'Who Will Cry When You Will Die','Robin Sharma','Personal Development',1,13
+773380,'Rich Dad Poor Dad','Robert T. Kiyosaki','Business',1,3
+815193,'Immortals of Meluha','Amish Tirpathi','High Fantasy',1,6
+322067,'A Brief History Of Time','Stephen Hawking','SPACE',0,12
+165426,'I Know Why The Cage Bird Sings','Maya Anguelo','Story',1,27
+275986,'Lord Of Files','William Golding','Fiction',0,15
+409527,'Loara Dune','R. D Blackmore','Fiction',0,17
+254885,'Jamacia Inn','Daphne','Fiction',0,15
+386836,'Kidnapped','Robert Louis','Fiction',1,5
+139603,'Treasure Island','Robert Louis','Fiction',1,11
+414011,'The Call Of Wild','Jack London','Fiction',1,17
+750234,'Charlottes Web','E. B White','Fiction',1,9
+682695,'The Wind In Willows','Kenneth Grahame','Fiction',1,16
+101975,'Being and Time','Martin Heldegger','Philosophy',1,18
+807500,'The Republic','Rocha Pereia','Philosophy',0,6
+880206,'Critique For Pure Reason','Paul Guyer','Philosophy',1,2
+471832,'The Prince','Rufus Godwin','Philosophy',1,11
+429958,'Ethics','Stuart Hampshire','Philosophy',1,11
+635318,'Long Walk To Freedom','Nelson Mandela','Autobiography',1,14
+606289,'The Dairy Of Young Girl','Anne Frank','Autobiography',1,26
+350650,'Mark Twain','Mark Twain','Autobiography',1,18
+356624,'Mein Kampf','Adolf Hitler','Autobiography',1,2
+762598,'Freakonomics','Steveb D.Levit','Economics',0,11
+370879,'Thinking Fast and Slow','Daniel Kahneman','Economics',1,1
+607087,'Tell You About Capitalism','HA-Joon Chang','Economics',1,5
+351631,'Animal Spirits','Akerlof and Shiller','Economics',1,19
+344941,'The Black Swan','Nassim Nicholas Taleb','Economics',0,16
+623331,1984,'George Orwell','Story',1,26
+718068,'The Lord Of Wings ','J.R.R.Tolken','Story',0,16
+252570,'Kite Runner','Khaled Hosseini','Story',1,9
+155864,'Harry Potter','J.K.Rowling','Story',1,4
+619707,'The Book Theif','Markus Zusak','Story',1,24
+323743,'History Of 20th Century','Martin Gilbert','History',1,12
+886737,"'Guns,Germs,and Steel'",'Jared Daimond','History',0,12
+759350,'A World lit Only by Fire','William Manchestar','History',0,22
+562108,'The Crusades ','Thomas Asbridge','History',1,28
+884884,'Over The Edge Of The World','Laurence','History',1,8
+244767,'A Beautiful Mind ','Sylvia Nasar','Biography',1,28
+523254,'The Enigma','Andrew Hodges','Biography',1,25
+881206,'Alexander Hamilton','Ron Chernow','Biography',1,10
+843714,'Barracoon','Zora Neale Hurston','Biography',1,10
+783247,'CHURCHILL : A Life','MArtin Glibert','Biography',1,24
+270627,'A Tale of Two Cities','Charles Dickens','Historical novel',0,29
+730151,'Les Miserables','Victor Hugo','Historical fiction',1,10

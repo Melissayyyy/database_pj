@@ -1,0 +1,10 @@
+^D:\DESKTOP\MYJQL_ORI\BUILD\CMAKEFILES\03D7E1F7B1206D667C8843CB35739886\GENERATE.STAMP.RULE
+setlocal
+D:\MyDevelopment\cmake-3.28.3-windows-x86_64\bin\cmake.exe -SD:/Desktop/myjql_ori -BD:/Desktop/myjql_ori/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Desktop/myjql_ori/build/myjql.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/Desktop/Myjql_Database-master/CMakeLists.txt
+D:/Desktop/Myjql_Database-master/build/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+D:/Desktop/Myjql_Database-master/build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+D:/Desktop/Myjql_Database-master/build/CMakeFiles/3.28.3/CMakeRCCompiler.cmake
+D:/Desktop/Myjql_Database-master/build/CMakeFiles/3.28.3/CMakeSystem.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeCInformation.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/Windows.cmake
+D:/MyDevelopment/cmake-3.28.3-windows-x86_64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
